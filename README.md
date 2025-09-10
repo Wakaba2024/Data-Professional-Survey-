@@ -57,3 +57,5 @@ Key insights from the dashboard include:
 - The most favored programming language is Python, followed by R, C/C++, and Java.
 
 - The average happiness with work-life balance is rated at 5.74 out of 10.
+
+  ![Dashboard Preview](Dashboard Image.png)
