@@ -58,4 +58,5 @@ Key insights from the dashboard include:
 
 - The average happiness with work-life balance is rated at 5.74 out of 10.
 
-  ![Dashboard Preview](Dashboard Image.png)
+![Dashboard Screenshot](DashImage.png)
+
